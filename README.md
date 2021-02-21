@@ -5,5 +5,6 @@ A restaurant app to practice react-native.
 https://www.yelp.com/fusion
 
 # How to run
-Open terminal and run: npm run android
+1. install dependencies: `npm install`
+2. Open terminal and run: `npm run android`
 
